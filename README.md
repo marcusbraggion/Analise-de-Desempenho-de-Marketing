@@ -1,1 +1,1 @@
-# Analise-de-Desempenho-de-Marketing
+# O presente repositório tem como objetivo realizar analise de desempenho de marcas.
